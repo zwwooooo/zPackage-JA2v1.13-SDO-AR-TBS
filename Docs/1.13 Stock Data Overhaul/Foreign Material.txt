@@ -1,0 +1,85 @@
+
+>>>Alrulco Folding Stock v4.43.2 20130509 - wil473<<<:
+
+>>Stis<<
+
+item 208  (P5Items801.sti) -> 2220 integral magnifications for scope modes 
+item 502  (P5Items766.sti) -> 2100 regular rifle iron sights
+item 559  (P5Items744.sti) -> 2202 korsak lam
+item 1035 (P4Items457.sti) -> 1581 rifle grenade device
+item 1636 (P5Items1021.sti)-> 1636 flashlight
+item 2007 (P6Items103.sti) -> 2302 Modular LBE Combat Pack
+
+item 4034 (P4Items371.sti) -> 2355 kashtan with unfolded stock
+item 4225 (P4Items336.sti) -> 2363 steyr tmp with unfolded stock
+item 4354 (P4Items526.sti) -> 643  famae saf silenciada with unfolded stock
+item 4376 (P4Items528.sti) -> 650  minimi spw with unfolded stock
+item 4438 (P4Items543.sti) -> 667  g3ka4 with unfolded stock
+item 4441 (P4Items545.sti) -> 1195 fr ordnance with unfolded stock
+item 4464 (P4Items560.sti) -> 343  hk mp5n with unfolded stock
+item 4471 (P4Items556.sti) -> 9    mp5k with folded stock
+item 4472 (P4Items555.sti) -> 2360 mp5k with unfolded stock
+item 4479 (P4Items562.sti) -> 794  hk mp5/40a3 with unfolded stock
+item 4508 (P4Items369.sti) -> 2366 mp7 with unfolded stock
+item 4577 (P4Items299.sti) -> 345  uzi with unfolded stock
+item 4579 (P4Items301.sti) -> 2359 mini-uzi with unfolded stock
+item 4581 (P4Items300.sti) -> 2357 micro-uzi with unfolded stock
+item 4587 (P4Items372.sti) -> 2358 cobray m11/9 with unfolded stock
+item 4589 (P4Items373.sti) -> 2364 ingram m10 with unfolded stock
+item 4769 (P4Items533.sti) -> 672  ots 39 with unfolded stock
+item 4833 (P4Items375.sti) -> 2356 pp-93 with unfolded stock
+item 4971 (P4Items370.sti) -> 2365 veresk with unfolded stock
+
+
+>>Data<<
+
+Weapons.xml
+
+<ubShotsPer4Turns>                   -> blatant Copy
+<ubBurstPenalty>                     -> Multipe of the Values
+<bAccuracy>                          -> blatant Copy
+<bBurstAP>                           -> blatant Copy
+<bAutofireShotsPerFiveAP>            -> blatant copy
+<APsToReload>                        -> blatant Copy
+<AutoPenalty>                        -> Multiple of the Values
+<APsToReloadManually>                -> blatant Copy
+<Handling>                           -> blatant Copy
+<usOverheatingJamThreshold>          -> blatant Copy
+<usOverheatingDamageThreshold>       -> blatant Copy
+<usOverheatingSingleShotTemperature> -> Multiple of the Values
+
+Items.xml
+		
+<DamageChance>                       -> blatant Copy
+<DirtIncreaseFactor>                 -> Multiple of the Values
+
+Not 100% sure that these were all borrowed xml-values, but it's probably pretty close.
+--------------------------------------------------
+
+>>>Aimnas Xmas 2012 Release - smeagol<<<:
+
+>>Stis<<
+
+item 958  (P2Items94.sti)  -> 2298 Modular LBE - Loose Ammo Pouch 
+item 1022 (P1Items842.sti) -> 2134 built-in/heavy bipod
+item 1146 (P2Items231.sti) -> 2132 shotgun suppressor
+item 1222 (gun336.sti)     -> 2118 g36 reflex sight
+item 1266 (P2Items228.sti) -> 2107 pistol iron sights
+
+item 4418 (gun754.sti)     -> 761  walther mpl with unfolded stock
+item 4345 (gun655.sti)     -> 2354 skorpion with unfolded stock
+item 5423 (gun683.sti)     -> 349  vikhr with unfolded stock
+item 5424 (gun684.sti)     -> 2503 vikhr with folded stock
+item 5613 (gun650.sti)     -> 621  benelli m4 super with unfolded stock
+item 5631 (gun771.sti)     -> 775  spas-12 with unfolded stock
+item 5641 (gun768.sti)     -> 731  street sweeper with unfolded stock
+
+------------------------------------------------
+
+>>Other Contributors<<
+
+CapnJack - images for mortar backpack
+
+------------------------------------------------
+
+All maps for the Alrulco Revisited part of the mod were originally work of JAsmine and Beka. There were slightly modified, mostly itemwise, for requirements of this mod. Read the Arulco Revisited manual for more details on the map creators.
