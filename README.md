@@ -1,4 +1,5 @@
-==JA2 + 1.13 + SDO + AR + AR_SDO + AR_SDO_TBS
+JA2 + 1.13 + SDO + AR + AR_SDO + AR_SDO_TBS
+====
 1.13: Mod for JA2
 
 http://www.bears-pit.com
