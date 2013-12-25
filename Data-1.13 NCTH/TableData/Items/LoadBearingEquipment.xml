@@ -246,7 +246,7 @@
 		<lbePocketIndex3>47</lbePocketIndex3>
 		<lbePocketIndex4>47</lbePocketIndex4>
 		<lbePocketIndex5>31</lbePocketIndex5>
-		<lbePocketIndex6>34</lbePocketIndex6>
+		<lbePocketIndex6>13</lbePocketIndex6>
 		<lbePocketIndex7>14</lbePocketIndex7>
 		<lbePocketIndex8>14</lbePocketIndex8>
 		<lbePocketIndex9>14</lbePocketIndex9>
@@ -583,14 +583,14 @@
 		<lbeClass>2</lbeClass>
 		<lbeCombo>0</lbeCombo>
 		<lbeFilledSize>64</lbeFilledSize>			
-		<lbePocketIndex1>10</lbePocketIndex1>
-		<lbePocketIndex2>10</lbePocketIndex2>
-		<lbePocketIndex3>10</lbePocketIndex3>
+		<lbePocketIndex1>45</lbePocketIndex1>
+		<lbePocketIndex2>45</lbePocketIndex2>
+		<lbePocketIndex3>45</lbePocketIndex3>
 		<lbePocketIndex4>16</lbePocketIndex4>
 		<lbePocketIndex5>31</lbePocketIndex5>
-		<lbePocketIndex6>45</lbePocketIndex6>
-		<lbePocketIndex7>45</lbePocketIndex7>
-		<lbePocketIndex8>45</lbePocketIndex8>
+		<lbePocketIndex6>10</lbePocketIndex6>
+		<lbePocketIndex7>10</lbePocketIndex7>
+		<lbePocketIndex8>10</lbePocketIndex8>
 		<lbePocketIndex9>17</lbePocketIndex9>
 		<lbePocketIndex10>0</lbePocketIndex10>
 		<lbePocketIndex11>35</lbePocketIndex11>
@@ -630,7 +630,7 @@
 		<lbePocketIndex9>0</lbePocketIndex9>
 		<lbePocketIndex10>0</lbePocketIndex10>
 		<lbePocketIndex11>22</lbePocketIndex11>
-		<lbePocketIndex12>0</lbePocketIndex12>
+		<lbePocketIndex12>50</lbePocketIndex12>
 	</LOADBEARINGEQUIPMENT>
 	<LOADBEARINGEQUIPMENT>
 		<lbeIndex>35</lbeIndex>
@@ -1307,5 +1307,23 @@
 		<lbePocketIndex10>0</lbePocketIndex10>
 		<lbePocketIndex11>0</lbePocketIndex11>
 		<lbePocketIndex12>0</lbePocketIndex12>
-	</LOADBEARINGEQUIPMENT>
+	</LOADBEARINGEQUIPMENT>	
+	<LOADBEARINGEQUIPMENT>
+		<lbeIndex>71</lbeIndex>
+		<lbeClass>2</lbeClass>
+		<lbeCombo>0</lbeCombo>
+		<lbeFilledSize>64</lbeFilledSize>			
+		<lbePocketIndex1>44</lbePocketIndex1>
+		<lbePocketIndex2>44</lbePocketIndex2>
+		<lbePocketIndex3>44</lbePocketIndex3>
+		<lbePocketIndex4>31</lbePocketIndex4>
+		<lbePocketIndex5>31</lbePocketIndex5>
+		<lbePocketIndex6>13</lbePocketIndex6>
+		<lbePocketIndex7>13</lbePocketIndex7>
+		<lbePocketIndex8>9</lbePocketIndex8>
+		<lbePocketIndex9>9</lbePocketIndex9>
+		<lbePocketIndex10>17</lbePocketIndex10>
+		<lbePocketIndex11>36</lbePocketIndex11>
+		<lbePocketIndex12>15</lbePocketIndex12>
+	</LOADBEARINGEQUIPMENT>		
 </LOADBEARINGEQUIPMENTLIST>

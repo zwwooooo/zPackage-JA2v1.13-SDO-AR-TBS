@@ -19175,8 +19175,8 @@
 		<usApproachFactorDirect>0</usApproachFactorDirect>
 		<usApproachFactorThreaten>0</usApproachFactorThreaten>
 		<usApproachFactorRecruit>0</usApproachFactorRecruit>
-		<sSectorX>10</sSectorX>
-		<sSectorY>1</sSectorY>
+		<sSectorX>16</sSectorX>
+		<sSectorY>12</sSectorY>
 		<sSectorZ>0</sSectorZ>
 		<ubCivilianGroup>0</ubCivilianGroup>
 		<bTown>0</bTown>

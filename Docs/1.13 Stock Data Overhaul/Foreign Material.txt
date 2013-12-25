@@ -60,6 +60,7 @@ Not 100% sure that these were all borrowed xml-values, but it's probably pretty 
 
 >>Stis<<
 
+item 816  (P2Items139.sti) -> 2313 swat vest 
 item 958  (P2Items94.sti)  -> 2298 Modular LBE - Loose Ammo Pouch 
 item 1022 (P1Items842.sti) -> 2134 built-in/heavy bipod
 item 1146 (P2Items231.sti) -> 2132 shotgun suppressor
@@ -70,16 +71,21 @@ item 4418 (gun754.sti)     -> 761  walther mpl with unfolded stock
 item 4345 (gun655.sti)     -> 2354 skorpion with unfolded stock
 item 5423 (gun683.sti)     -> 349  vikhr with unfolded stock
 item 5424 (gun684.sti)     -> 2503 vikhr with folded stock
+item 5566 (gun116.sti)     -> 2088 fn minimi 6.8 spc
+item 5567 (gun764.sti)     -> 2613 fn minimi 6.8 spc with retracted stock
 item 5613 (gun650.sti)     -> 621  benelli m4 super with unfolded stock
 item 5631 (gun771.sti)     -> 775  spas-12 with unfolded stock
 item 5641 (gun768.sti)     -> 731  street sweeper with unfolded stock
+------------------------------------------------
+
+>>Maps<<
+
+
+All maps for the Alrulco Revisited part of the mod were originally work of JAsmine and Beka. There were slightly modified, mostly itemwise, for the requirements of this mod. Read the Arulco Revisited manual for more details on the map creators.
 
 ------------------------------------------------
 
 >>Other Contributors<<
 
 CapnJack - images for mortar backpack
-
-------------------------------------------------
-
-All maps for the Alrulco Revisited part of the mod were originally work of JAsmine and Beka. There were slightly modified, mostly itemwise, for requirements of this mod. Read the Arulco Revisited manual for more details on the map creators.
+goc_man  - included some parts of his "S&F minimod"

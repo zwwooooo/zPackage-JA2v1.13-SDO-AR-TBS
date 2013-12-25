@@ -363,5 +363,35 @@
 		<usItem>760</usItem>
 		<usAttachment1>1009</usAttachment1>
 		<usResult>2607</usResult>
-	</ATTACHMENTCOMBOMERGE>		
+	</ATTACHMENTCOMBOMERGE>	
+	<ATTACHMENTCOMBOMERGE>
+		<uiIndex>57</uiIndex>
+		<usItem>2089</usItem>
+		<usAttachment1>1009</usAttachment1>
+		<usResult>2611</usResult>
+	</ATTACHMENTCOMBOMERGE>
+	<ATTACHMENTCOMBOMERGE>
+		<uiIndex>58</uiIndex>
+		<usItem>1030</usItem>
+		<usAttachment1>2168</usAttachment1>
+		<usResult>1004</usResult>
+	</ATTACHMENTCOMBOMERGE>
+	<ATTACHMENTCOMBOMERGE>
+		<uiIndex>59</uiIndex>
+		<usItem>2119</usItem>
+		<usAttachment1>2168</usAttachment1>
+		<usResult>2130</usResult>
+	</ATTACHMENTCOMBOMERGE>
+	<ATTACHMENTCOMBOMERGE>
+		<uiIndex>60</uiIndex>
+		<usItem>2188</usItem>
+		<usAttachment1>2168</usAttachment1>
+		<usResult>2186</usResult>
+	</ATTACHMENTCOMBOMERGE>
+	<ATTACHMENTCOMBOMERGE>
+		<uiIndex>61</uiIndex>
+		<usItem>2195</usItem>
+		<usAttachment1>2168</usAttachment1>
+		<usResult>2180</usResult>
+	</ATTACHMENTCOMBOMERGE>
 </ATTACHMENTCOMBOMERGELIST>

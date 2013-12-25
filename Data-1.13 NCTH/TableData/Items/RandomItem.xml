@@ -1072,13 +1072,13 @@
 		<randomitem8>43</randomitem8>
 		<randomitem9>43</randomitem9>
 		<randomitem10>43</randomitem10>
-		<item1>837</item1>
-		<item2>837</item2>
+		<item1>2268</item1>
+		<item2>2268</item2>
 		<item3>837</item3>
-		<item4>183</item4>
-		<item5>183</item5>
-		<item6>838</item6>
-		<item7>838</item7>
+		<item4>837</item4>
+		<item5>837</item5>
+		<item6>183</item6>
+		<item7>183</item7>
 		<item8>838</item8>
 		<item9>838</item9>
 		<item10>838</item10>
@@ -1124,9 +1124,9 @@
 		<item1>1088</item1>
 		<item2>1089</item2>
 		<item3>1089</item3>
-		<item4>2315</item4>
+		<item4>2313</item4>
 		<item5>2315</item5>
-		<item6>1196</item6>
+		<item6>2315</item6>
 		<item7>1196</item7>
 		<item8>1196</item8>
 		<item9>1203</item9>
@@ -8854,9 +8854,9 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>349</item1>
-		<item2>349</item2>
-		<item3>349</item3>
+		<item1>651</item1>
+		<item2>651</item2>
+		<item3>651</item3>
 		<item4>651</item4>
 		<item5>651</item5>
 		<item6>651</item6>
@@ -9622,44 +9622,20 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>0</item1>
-		<item2>0</item2>
-		<item3>0</item3>
-		<item4>1179</item4>
-		<item5>1178</item5>
-		<item6>628</item6>
-		<item7>1177</item7>
-		<item8>1177</item8>
-		<item9>1177</item9>
-		<item10>1177</item10>
+		<item1>1179</item1>
+		<item2>1178</item2>
+		<item3>628</item3>
+		<item4>1177</item4>
+		<item5>1177</item5>
+		<item6>1177</item6>
+		<item7>69</item7>
+		<item8>69</item8>
+		<item9>737</item9>
+		<item10>626</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>401</uiIndex>
 		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 2/9</szName>
-		<randomitem1>0</randomitem1>
-		<randomitem2>0</randomitem2>
-		<randomitem3>0</randomitem3>
-		<randomitem4>0</randomitem4>
-		<randomitem5>0</randomitem5>
-		<randomitem6>0</randomitem6>
-		<randomitem7>0</randomitem7>
-		<randomitem8>0</randomitem8>
-		<randomitem9>0</randomitem9>
-		<randomitem10>0</randomitem10>
-		<item1>69</item1>
-		<item2>69</item2>
-		<item3>737</item3>
-		<item4>737</item4>
-		<item5>626</item5>
-		<item6>626</item6>
-		<item7>705</item7>
-		<item8>705</item8>
-		<item9>705</item9>
-		<item10>705</item10>
-	</RANDOMITEM>
-	<RANDOMITEM>
-		<uiIndex>402</uiIndex>
-		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 3/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -9675,15 +9651,15 @@
 		<item3>705</item3>
 		<item4>705</item4>
 		<item5>705</item5>
-		<item6>706</item6>
+		<item6>705</item6>
 		<item7>706</item7>
 		<item8>706</item8>
 		<item9>706</item9>
 		<item10>706</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
-		<uiIndex>403</uiIndex>
-		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 4/9</szName>
+		<uiIndex>402</uiIndex>
+		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 3/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -9699,11 +9675,35 @@
 		<item3>706</item3>
 		<item4>706</item4>
 		<item5>706</item5>
-		<item6>706</item6>
-		<item7>706</item7>
-		<item8>706</item8>
-		<item9>706</item9>
-		<item10>706</item10>
+		<item6>726</item6>
+		<item7>726</item7>
+		<item8>740</item8>
+		<item9>740</item9>
+		<item10>740</item10>
+	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>403</uiIndex>
+		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 4/9</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>726</item1>
+		<item2>726</item2>
+		<item3>726</item3>
+		<item4>740</item4>
+		<item5>740</item5>
+		<item6>740</item6>
+		<item7>740</item7>
+		<item8>740</item8>
+		<item9>740</item9>
+		<item10>740</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>404</uiIndex>
@@ -9718,33 +9718,9 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>726</item1>
-		<item2>726</item2>
-		<item3>726</item3>
-		<item4>726</item4>
-		<item5>726</item5>
-		<item6>740</item6>
-		<item7>740</item7>
-		<item8>740</item8>
-		<item9>740</item9>
-		<item10>740</item10>
-	</RANDOMITEM>
-	<RANDOMITEM>
-		<uiIndex>405</uiIndex>
-		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 6/9</szName>
-		<randomitem1>0</randomitem1>
-		<randomitem2>0</randomitem2>
-		<randomitem3>0</randomitem3>
-		<randomitem4>0</randomitem4>
-		<randomitem5>0</randomitem5>
-		<randomitem6>0</randomitem6>
-		<randomitem7>0</randomitem7>
-		<randomitem8>0</randomitem8>
-		<randomitem9>0</randomitem9>
-		<randomitem10>0</randomitem10>
 		<item1>661</item1>
 		<item2>661</item2>
-		<item3>661</item3>
+		<item3>34</item3>
 		<item4>34</item4>
 		<item5>34</item5>
 		<item6>34</item6>
@@ -9754,8 +9730,8 @@
 		<item10>650</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
-		<uiIndex>406</uiIndex>
-		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 7/9</szName>
+		<uiIndex>405</uiIndex>
+		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 6/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -9778,32 +9754,8 @@
 		<item10>1188</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
-		<uiIndex>407</uiIndex>
-		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 8/9</szName>
-		<randomitem1>0</randomitem1>
-		<randomitem2>0</randomitem2>
-		<randomitem3>0</randomitem3>
-		<randomitem4>0</randomitem4>
-		<randomitem5>0</randomitem5>
-		<randomitem6>0</randomitem6>
-		<randomitem7>0</randomitem7>
-		<randomitem8>0</randomitem8>
-		<randomitem9>0</randomitem9>
-		<randomitem10>0</randomitem10>
-		<item1>1187</item1>
-		<item2>1188</item2>
-		<item3>1188</item3>
-		<item4>1188</item4>
-		<item5>1188</item5>
-		<item6>669</item6>
-		<item7>669</item7>
-		<item8>669</item8>
-		<item9>669</item9>
-		<item10>669</item10>
-	</RANDOMITEM>
-	<RANDOMITEM>
-		<uiIndex>408</uiIndex>
-		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 9/9</szName>
+		<uiIndex>406</uiIndex>
+		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 7/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -9824,6 +9776,54 @@
 		<item8>669</item8>
 		<item9>669</item9>
 		<item10>669</item10>
+	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>407</uiIndex>
+		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 8/9</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>669</item1>
+		<item2>669</item2>
+		<item3>669</item3>
+		<item4>669</item4>
+		<item5>669</item5>
+		<item6>2088</item6>
+		<item7>2088</item7>
+		<item8>2088</item8>
+		<item9>2088</item9>
+		<item10>2088</item10>
+	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>408</uiIndex>
+		<szName>Random Light Machine Gun, Small/Medium Cartridge, Group 9/9</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>2088</item1>
+		<item2>2088</item2>
+		<item3>2088</item3>
+		<item4>2088</item4>
+		<item5>2088</item5>
+		<item6>2088</item6>
+		<item7>2088</item7>
+		<item8>2088</item8>
+		<item9>2088</item9>
+		<item10>2088</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>409</uiIndex>
@@ -9848,7 +9848,7 @@
 		<item8>3473</item8>
 		<item9>3473</item9>
 		<item10>3473</item10>
-	</RANDOMITEM>
+	</RANDOMITEM>		
 	<RANDOMITEM>
 		<uiIndex>410</uiIndex>
 		<szName>Random Light Machine Gun, Large Cartridge, Group 1/8</szName>
@@ -10462,12 +10462,12 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>617</item1>
-		<item2>617</item2>
-		<item3>617</item3>
-		<item4>333</item4>
-		<item5>333</item5>
-		<item6>333</item6>
+		<item1>349</item1>
+		<item2>349</item2>
+		<item3>349</item3>
+		<item4>2089</item4>
+		<item5>2089</item5>
+		<item6>2089</item6>
 		<item7>748</item7>
 		<item8>748</item8>
 		<item9>605</item9>
@@ -10486,8 +10486,8 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>333</item1>
-		<item2>333</item2>
+		<item1>349</item1>
+		<item2>349</item2>
 		<item3>333</item3>
 		<item4>333</item4>
 		<item5>333</item5>
@@ -12148,11 +12148,11 @@
 		<item3>3808</item3>
 		<item4>3808</item4>
 		<item5>3808</item5>
-		<item6>5001</item6>
-		<item7>5001</item7>
-		<item8>5001</item8>
-		<item9>5001</item9>
-		<item10>5001</item10>
+		<item6>4100</item6>
+		<item7>4100</item7>
+		<item8>4100</item8>
+		<item9>4100</item9>
+		<item10>4100</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>506</uiIndex>
@@ -12167,16 +12167,16 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>5001</item1>
-		<item2>5001</item2>
-		<item3>5001</item3>
-		<item4>5001</item4>
-		<item5>5001</item5>
-		<item6>5001</item6>
-		<item7>5001</item7>
-		<item8>5001</item8>
-		<item9>5001</item9>
-		<item10>5001</item10>
+		<item1>4100</item1>
+		<item2>4100</item2>
+		<item3>4100</item3>
+		<item4>4100</item4>
+		<item5>4100</item5>
+		<item6>4100</item6>
+		<item7>4100</item7>
+		<item8>4100</item8>
+		<item9>4100</item9>
+		<item10>4100</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>507</uiIndex>
@@ -12911,9 +12911,9 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>3872</item1>
-		<item2>3872</item2>
-		<item3>3872</item3>
+		<item1>3874</item1>
+		<item2>3874</item2>
+		<item3>3874</item3>
 		<item4>3874</item4>
 		<item5>3874</item5>
 		<item6>3874</item6>
@@ -13665,7 +13665,7 @@
 		<item8>3617</item8>
 		<item9>3617</item9>
 		<item10>3617</item10>
-	</RANDOMITEM>
+	</RANDOMITEM>	
 	<RANDOMITEM>
 		<uiIndex>569</uiIndex>
 		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 1/9</szName>
@@ -13679,44 +13679,20 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>0</item1>
-		<item2>0</item2>
-		<item3>0</item3>
-		<item4>3944</item4>
-		<item5>3944</item5>
-		<item6>3944</item6>
-		<item7>3946</item7>
-		<item8>3946</item8>
-		<item9>3946</item9>
-		<item10>3946</item10>
+		<item1>3944</item1>
+		<item2>3944</item2>
+		<item3>3944</item3>
+		<item4>3946</item4>
+		<item5>3946</item5>
+		<item6>3946</item6>
+		<item7>3948</item7>
+		<item8>3948</item8>
+		<item9>3950</item9>
+		<item10>3952</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>570</uiIndex>
 		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 2/9</szName>
-		<randomitem1>0</randomitem1>
-		<randomitem2>0</randomitem2>
-		<randomitem3>0</randomitem3>
-		<randomitem4>0</randomitem4>
-		<randomitem5>0</randomitem5>
-		<randomitem6>0</randomitem6>
-		<randomitem7>0</randomitem7>
-		<randomitem8>0</randomitem8>
-		<randomitem9>0</randomitem9>
-		<randomitem10>0</randomitem10>
-		<item1>3948</item1>
-		<item2>3948</item2>
-		<item3>3950</item3>
-		<item4>3950</item4>
-		<item5>3952</item5>
-		<item6>3952</item6>
-		<item7>3954</item7>
-		<item8>3954</item8>
-		<item9>3954</item9>
-		<item10>3954</item10>
-	</RANDOMITEM>
-	<RANDOMITEM>
-		<uiIndex>571</uiIndex>
-		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 3/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -13732,15 +13708,15 @@
 		<item3>3954</item3>
 		<item4>3954</item4>
 		<item5>3954</item5>
-		<item6>3956</item6>
+		<item6>3954</item6>
 		<item7>3956</item7>
 		<item8>3956</item8>
 		<item9>3956</item9>
 		<item10>3956</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
-		<uiIndex>572</uiIndex>
-		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 4/9</szName>
+		<uiIndex>571</uiIndex>
+		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 3/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -13756,11 +13732,35 @@
 		<item3>3956</item3>
 		<item4>3956</item4>
 		<item5>3956</item5>
-		<item6>3956</item6>
-		<item7>3956</item7>
-		<item8>3956</item8>
-		<item9>3956</item9>
-		<item10>3956</item10>
+		<item6>3958</item6>
+		<item7>3958</item7>
+		<item8>3960</item8>
+		<item9>3960</item9>
+		<item10>3960</item10>
+	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>572</uiIndex>
+		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 4/9</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>3958</item1>
+		<item2>3958</item2>
+		<item3>3958</item3>
+		<item4>3960</item4>
+		<item5>3960</item5>
+		<item6>3960</item6>
+		<item7>3960</item7>
+		<item8>3960</item8>
+		<item9>3960</item9>
+		<item10>3960</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>573</uiIndex>
@@ -13775,33 +13775,9 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>3958</item1>
-		<item2>3958</item2>
-		<item3>3958</item3>
-		<item4>3958</item4>
-		<item5>3958</item5>
-		<item6>3960</item6>
-		<item7>3960</item7>
-		<item8>3960</item8>
-		<item9>3960</item9>
-		<item10>3960</item10>
-	</RANDOMITEM>
-	<RANDOMITEM>
-		<uiIndex>574</uiIndex>
-		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 6/9</szName>
-		<randomitem1>0</randomitem1>
-		<randomitem2>0</randomitem2>
-		<randomitem3>0</randomitem3>
-		<randomitem4>0</randomitem4>
-		<randomitem5>0</randomitem5>
-		<randomitem6>0</randomitem6>
-		<randomitem7>0</randomitem7>
-		<randomitem8>0</randomitem8>
-		<randomitem9>0</randomitem9>
-		<randomitem10>0</randomitem10>
 		<item1>3962</item1>
 		<item2>3962</item2>
-		<item3>3962</item3>
+		<item3>3964</item3>
 		<item4>3964</item4>
 		<item5>3964</item5>
 		<item6>3964</item6>
@@ -13811,8 +13787,8 @@
 		<item10>3964</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
-		<uiIndex>575</uiIndex>
-		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 7/9</szName>
+		<uiIndex>574</uiIndex>
+		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 6/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -13835,32 +13811,8 @@
 		<item10>3968</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
-		<uiIndex>576</uiIndex>
-		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 8/9</szName>
-		<randomitem1>0</randomitem1>
-		<randomitem2>0</randomitem2>
-		<randomitem3>0</randomitem3>
-		<randomitem4>0</randomitem4>
-		<randomitem5>0</randomitem5>
-		<randomitem6>0</randomitem6>
-		<randomitem7>0</randomitem7>
-		<randomitem8>0</randomitem8>
-		<randomitem9>0</randomitem9>
-		<randomitem10>0</randomitem10>
-		<item1>3966</item1>
-		<item2>3968</item2>
-		<item3>3968</item3>
-		<item4>3968</item4>
-		<item5>3968</item5>
-		<item6>3970</item6>
-		<item7>3970</item7>
-		<item8>3970</item8>
-		<item9>3970</item9>
-		<item10>3970</item10>
-	</RANDOMITEM>
-	<RANDOMITEM>
-		<uiIndex>577</uiIndex>
-		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 9/9</szName>
+		<uiIndex>575</uiIndex>
+		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 7/9</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -13881,6 +13833,54 @@
 		<item8>3970</item8>
 		<item9>3970</item9>
 		<item10>3970</item10>
+	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>576</uiIndex>
+		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 8/9</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>3970</item1>
+		<item2>3970</item2>
+		<item3>3970</item3>
+		<item4>3970</item4>
+		<item5>3970</item5>
+		<item6>4104</item6>
+		<item7>4104</item7>
+		<item8>4104</item8>
+		<item9>4104</item9>
+		<item10>4104</item10>
+	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>577</uiIndex>
+		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 9/9</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>4104</item1>
+		<item2>4104</item2>
+		<item3>4104</item3>
+		<item4>4104</item4>
+		<item5>4104</item5>
+		<item6>4104</item6>
+		<item7>4104</item7>
+		<item8>4104</item8>
+		<item9>4104</item9>
+		<item10>4104</item10>
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>578</uiIndex>
@@ -13905,7 +13905,7 @@
 		<item8>3623</item8>
 		<item9>3623</item9>
 		<item10>3623</item10>
-	</RANDOMITEM>
+	</RANDOMITEM>		
 	<RANDOMITEM>
 		<uiIndex>579</uiIndex>
 		<szName>Random Light Machine Gun with Ammo Belt, Large Cartridge, Group 1/8</szName>
@@ -14519,12 +14519,12 @@
 		<randomitem8>0</randomitem8>
 		<randomitem9>0</randomitem9>
 		<randomitem10>0</randomitem10>
-		<item1>4042</item1>
-		<item2>4042</item2>
-		<item3>4042</item3>
-		<item4>4042</item4>
-		<item5>4042</item5>
-		<item6>4042</item6>
+		<item1>3872</item1>
+		<item2>3872</item2>
+		<item3>3872</item3>
+		<item4>4102</item4>
+		<item5>4102</item5>
+		<item6>4102</item6>
 		<item7>4044</item7>
 		<item8>4044</item8>
 		<item9>4046</item9>
@@ -17317,7 +17317,7 @@
 	</RANDOMITEM>
 	<RANDOMITEM>
 		<uiIndex>721</uiIndex>
-		<szName>Random Carbine Assault Rifle with Magazines, Medium Cartridge, Group 6/8, Subgroup 1</szName>
+		<szName>Random Special Purpose Weapon with Magazines, Group 7/9, Subgroup 4</szName>
 		<randomitem1>0</randomitem1>
 		<randomitem2>0</randomitem2>
 		<randomitem3>0</randomitem3>
@@ -21179,4 +21179,52 @@
 		<item9>3675</item9>
 		<item10>3675</item10>
 	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>882</uiIndex>
+		<szName>Random Special Purpose Weapon with Magazines, Group 7/9, Subgroup 3</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>2089</item1>
+		<item2>0</item2>
+		<item3>0</item3>
+		<item4>0</item4>
+		<item5>0</item5>
+		<item6>0</item6>
+		<item7>0</item7>
+		<item8>0</item8>
+		<item9>0</item9>
+		<item10>0</item10>
+	</RANDOMITEM>
+	<RANDOMITEM>
+		<uiIndex>883</uiIndex>
+		<szName>Random Light Machine Gun with Ammo Belt, Small/Medium Cartridge, Group 9/9, Subgroup 1</szName>
+		<randomitem1>0</randomitem1>
+		<randomitem2>0</randomitem2>
+		<randomitem3>0</randomitem3>
+		<randomitem4>0</randomitem4>
+		<randomitem5>0</randomitem5>
+		<randomitem6>0</randomitem6>
+		<randomitem7>0</randomitem7>
+		<randomitem8>0</randomitem8>
+		<randomitem9>0</randomitem9>
+		<randomitem10>0</randomitem10>
+		<item1>2088</item1>
+		<item2>0</item2>
+		<item3>0</item3>
+		<item4>0</item4>
+		<item5>0</item5>
+		<item6>0</item6>
+		<item7>0</item7>
+		<item8>0</item8>
+		<item9>0</item9>
+		<item10>0</item10>
+	</RANDOMITEM>	
 </RANDOMITEMLIST>

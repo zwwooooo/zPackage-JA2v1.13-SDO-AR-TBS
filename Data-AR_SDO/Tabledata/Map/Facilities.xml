@@ -103,6 +103,16 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>27</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H13</SectorGrid>
+		<FacilityType>28</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>		
+	<FACILITY>
 		<SectorGrid>H14</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
@@ -203,6 +213,11 @@
 	<!-- CHITZENA -->
 	<FACILITY>
 		<SectorGrid>A2</SectorGrid>
+		<FacilityType>17</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
+	<FACILITY>
+		<SectorGrid>A2</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
@@ -226,6 +241,11 @@
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
+	<FACILITY>
+		<SectorGrid>B1</SectorGrid>
+		<FacilityType>29</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
 	<FACILITY>
 		<SectorGrid>B2</SectorGrid>
 		<FacilityType>9</FacilityType>
@@ -349,14 +369,29 @@
 	<!-- GRUMM -->
 	<FACILITY>
 		<SectorGrid>G1</SectorGrid>
+		<FacilityType>17</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>		
+	<FACILITY>
+		<SectorGrid>G1</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
 	<FACILITY>
 		<SectorGrid>G2</SectorGrid>
+		<FacilityType>5</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>		
+	<FACILITY>
+		<SectorGrid>G2</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
-	</FACILITY>
+	</FACILITY>	
+	<FACILITY>
+		<SectorGrid>G3</SectorGrid>
+		<FacilityType>9</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
 	<FACILITY>
 		<SectorGrid>G3</SectorGrid>
 		<FacilityType>12</FacilityType>
@@ -368,6 +403,11 @@
 		<ubHidden>2</ubHidden>
 	</FACILITY>
 	<FACILITY>
+		<SectorGrid>G3</SectorGrid>
+		<FacilityType>22</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>			
+	<FACILITY>
 		<SectorGrid>H1</SectorGrid>
 		<FacilityType>2</FacilityType>
 		<ubHidden>1</ubHidden>
@@ -377,6 +417,16 @@
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H1</SectorGrid>
+		<FacilityType>23</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H1</SectorGrid>
+		<FacilityType>24</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>		
 	<FACILITY>
 		<SectorGrid>H2</SectorGrid>
 		<FacilityType>2</FacilityType>
@@ -402,6 +452,11 @@
 		<FacilityType>22</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
+	<FACILITY>
+		<SectorGrid>H3</SectorGrid>
+		<FacilityType>9</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
 	<FACILITY>
 		<SectorGrid>H3</SectorGrid>
 		<FacilityType>11</FacilityType>
@@ -435,7 +490,7 @@
 		<ubHidden>1</ubHidden>
 	</FACILITY>
 
-	<!-- BALIME -->
+	<!-- BALIME -->	
 	<FACILITY>
 		<SectorGrid>L11</SectorGrid>
 		<FacilityType>18</FacilityType>
@@ -446,6 +501,11 @@
 		<FacilityType>14</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
+	<FACILITY>
+		<SectorGrid>L12</SectorGrid>
+		<FacilityType>17</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
 	<FACILITY>
 		<SectorGrid>L12</SectorGrid>
 		<FacilityType>18</FacilityType>
@@ -477,16 +537,11 @@
 	<!-- MEDUNA -->
 	<FACILITY>
 		<SectorGrid>N3</SectorGrid>
-		<FacilityType>18</FacilityType>
-		<ubHidden>2</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>N3</SectorGrid>
 		<FacilityType>4</FacilityType>
 		<ubHidden>1</ubHidden>
-	</FACILITY>
+	</FACILITY>	
 	<FACILITY>
-		<SectorGrid>N4</SectorGrid>
+		<SectorGrid>N3</SectorGrid>
 		<FacilityType>18</FacilityType>
 		<ubHidden>2</ubHidden>
 	</FACILITY>
@@ -494,7 +549,17 @@
 		<SectorGrid>N4</SectorGrid>
 		<FacilityType>10</FacilityType>
 		<ubHidden>1</ubHidden>
+	</FACILITY>		
+	<FACILITY>
+		<SectorGrid>N4</SectorGrid>
+		<FacilityType>18</FacilityType>
+		<ubHidden>2</ubHidden>
 	</FACILITY>
+	<FACILITY>
+		<SectorGrid>N4</SectorGrid>
+		<FacilityType>19</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>		
 	<FACILITY>
 		<SectorGrid>N5</SectorGrid>
 		<FacilityType>18</FacilityType>
@@ -510,6 +575,11 @@
 		<FacilityType>2</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
+	<FACILITY>
+		<SectorGrid>O4</SectorGrid>
+		<FacilityType>17</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
 	<FACILITY>
 		<SectorGrid>O4</SectorGrid>
 		<FacilityType>18</FacilityType>
@@ -595,13 +665,13 @@
 	<!-- Recreo -->
 	<FACILITY>
 		<SectorGrid>L1</SectorGrid>
-		<FacilityType>18</FacilityType>
-		<ubHidden>2</ubHidden>
-	</FACILITY>
-	<FACILITY>
-		<SectorGrid>L1</SectorGrid>
 		<FacilityType>17</FacilityType>
 		<ubHidden>1</ubHidden>
+	</FACILITY>	
+	<FACILITY>
+		<SectorGrid>L1</SectorGrid>
+		<FacilityType>18</FacilityType>
+		<ubHidden>2</ubHidden>
 	</FACILITY>
 
 	<!-- Baldio -->
@@ -916,6 +986,11 @@
 		<FacilityType>20</FacilityType>
 		<ubHidden>1</ubHidden>
 	</FACILITY>
+	<FACILITY>
+		<SectorGrid>M13</SectorGrid>
+		<FacilityType>29</FacilityType>
+		<ubHidden>1</ubHidden>
+	</FACILITY>	
 	<FACILITY>
 		<SectorGrid>N7</SectorGrid>
 		<FacilityType>5</FacilityType>

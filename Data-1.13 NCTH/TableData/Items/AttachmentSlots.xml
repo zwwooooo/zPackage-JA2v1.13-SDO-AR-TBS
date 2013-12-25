@@ -310,7 +310,7 @@
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>28</uiSlotIndex>
-		<szSlotName>Scope Attachments</szSlotName>
+		<szSlotName>You can attach a Reflex Sight RMR^ here when the ACOG is separated from the gun.</szSlotName>
 		<nasAttachmentClass>16384</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<usDescPanelPosX>107</usDescPanelPosX>
@@ -354,7 +354,7 @@
 	</ATTACHMENTSLOT>
 	<ATTACHMENTSLOT>
 		<uiSlotIndex>32</uiSlotIndex>
-		<szSlotName>Bayonet Slot</szSlotName>
+		<szSlotName>Knife Slot</szSlotName>
 		<nasAttachmentClass>262144</nasAttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<usDescPanelPosX>10</usDescPanelPosX>
@@ -748,4 +748,70 @@
 		<fBigSlot>1</fBigSlot>
 		<ubPocketMapping>12</ubPocketMapping>
 	</ATTACHMENTSLOT>	
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>68</uiSlotIndex>
+		<szSlotName>Helmet Attachment: Sight Devices</szSlotName>
+		<nasAttachmentClass>16777216</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>187</usDescPanelPosX>
+		<usDescPanelPosY>66</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>0</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>69</uiSlotIndex>
+		<szSlotName>Helmet Attachment: Camo Cover</szSlotName>
+		<nasAttachmentClass>33554432</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>223</usDescPanelPosX>
+		<usDescPanelPosY>66</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>0</ubPocketMapping>
+	</ATTACHMENTSLOT>
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>70</uiSlotIndex>
+		<szSlotName>Helmet Attachment: Face Protection</szSlotName>
+		<nasAttachmentClass>67108864</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>187</usDescPanelPosX>
+		<usDescPanelPosY>94</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>1</fBigSlot>
+		<ubPocketMapping>0</ubPocketMapping>
+	</ATTACHMENTSLOT>	
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>71</uiSlotIndex>
+		<szSlotName>Vest Attachment: Armour Plating</szSlotName>
+		<nasAttachmentClass>134217728</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>187</usDescPanelPosX>
+		<usDescPanelPosY>80</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>0</ubPocketMapping>
+	</ATTACHMENTSLOT>	
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>72</uiSlotIndex>
+		<szSlotName>Vest Attachment: Camo Shirt</szSlotName>
+		<nasAttachmentClass>268435456</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>223</usDescPanelPosX>
+		<usDescPanelPosY>80</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>0</ubPocketMapping>
+	</ATTACHMENTSLOT>		
+	<ATTACHMENTSLOT>
+		<uiSlotIndex>73</uiSlotIndex>
+		<szSlotName>Leggings Attachment: Leg Protectors</szSlotName>
+		<nasAttachmentClass>536870912</nasAttachmentClass>
+		<nasLayoutClass>1</nasLayoutClass>
+		<usDescPanelPosX>187</usDescPanelPosX>
+		<usDescPanelPosY>80</usDescPanelPosY>
+		<fMultiShot>0</fMultiShot>
+		<fBigSlot>0</fBigSlot>
+		<ubPocketMapping>0</ubPocketMapping>
+	</ATTACHMENTSLOT>			
 </ATTACHMENTSLOTLIST>

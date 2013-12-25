@@ -912,6 +912,9 @@
     <szDetailedExploredName>Grumm Residential Area</szDetailedExploredName>
     <sWaterType>1</sWaterType>
     <usNaturalDirt>225</usNaturalDirt>
+    <usPrisonRoomNumber00>30</usPrisonRoomNumber00>
+    <usPrisonRoomNumber01>31</usPrisonRoomNumber01>
+    <usPrisonRoomNumber02>32</usPrisonRoomNumber02>	
    </SECTOR>
    <SECTOR>
     <SectorGrid>G4</SectorGrid>
@@ -1948,6 +1951,7 @@
     <sWaterType>1</sWaterType>
     <usNaturalDirt>375</usNaturalDirt>
     <usCurfewValue>1</usCurfewValue>
+    <sRadioScanModifier>1</sRadioScanModifier>		
    </SECTOR>
    <SECTOR>
     <SectorGrid>M14</SectorGrid>
@@ -2374,7 +2378,8 @@
     <szDetailedExploredName>Missile silo</szDetailedExploredName>
     <sWaterType>2</sWaterType>
     <usNaturalDirt>375</usNaturalDirt>
-    <usCurfewValue>2</usCurfewValue>	
+    <usCurfewValue>2</usCurfewValue>
+    <sRadioScanModifier>2</sRadioScanModifier>	
    </SECTOR>
    <SECTOR>
     <SectorGrid>P11</SectorGrid>

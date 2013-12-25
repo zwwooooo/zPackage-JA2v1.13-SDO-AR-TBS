@@ -1299,10 +1299,10 @@
 	<AMMOTYPE>
 		<uiIndex>37</uiIndex>
 		<name>Gauge Slug</name>
-		<fontColour>218</fontColour>
-		<grayed>8</grayed>
-		<offNormal>5</offNormal>
-		<onNormal>7</onNormal>
+		<fontColour>136</fontColour>
+		<grayed>4</grayed>
+		<offNormal>1</offNormal>
+		<onNormal>3</onNormal>
 		<structureImpactReductionMultiplier>9</structureImpactReductionMultiplier>
 		<structureImpactReductionDivisor>25</structureImpactReductionDivisor>
 		<armourImpactReductionMultiplier>17</armourImpactReductionMultiplier>

@@ -62,7 +62,7 @@
 	</NasAttachmentClass>
 	<NasAttachmentClass>
 		<id>16384</id>
-		<name>Addon Sight</name>
+		<name>Scope Nested Attachment</name>
 	</NasAttachmentClass>
 	<NasAttachmentClass>
 		<id>32768</id>
@@ -78,7 +78,7 @@
 	</NasAttachmentClass>	
 	<NasAttachmentClass>
 		<id>262144</id>
-		<name>Bayonet</name>
+		<name>Knife</name>
 	</NasAttachmentClass>
 	<NasAttachmentClass>
 		<id>524288</id>
@@ -99,5 +99,29 @@
 	<NasAttachmentClass>
 		<id>8388608</id>
 		<name>MOLLE Medium</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>16777216</id>
+		<name>Sight Devices</name>
+	</NasAttachmentClass>	
+	<NasAttachmentClass>
+		<id>33554432</id>
+		<name>Helmet Cover</name>
+	</NasAttachmentClass>	
+	<NasAttachmentClass>
+		<id>67108864</id>
+		<name>Face Protection</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>134217728</id>
+		<name>Vest Plates</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>268435456</id>
+		<name>Camo Shirt</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>536870912</id>
+		<name>Leg Protectors</name>
 	</NasAttachmentClass>	
 </JA2Data>

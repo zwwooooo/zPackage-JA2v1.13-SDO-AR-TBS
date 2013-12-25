@@ -383,7 +383,7 @@
 		<bItemNo47>2271</bItemNo47>
 		<bItemNo48>1636</bItemNo48>
 		<bItemNo49>1636</bItemNo49>
-		<bItemNo50>1636</bItemNo50>
+		<bItemNo50>2314</bItemNo50>
 	</ENEMYITEMCHOICES>
 	<ENEMYITEMCHOICES>
 		<uiIndex>7</uiIndex>
@@ -1103,56 +1103,56 @@
 	<ENEMYITEMCHOICES>
 		<uiIndex>20</uiIndex>
 		<name>LBE</name>
-		<ubChoices>50</ubChoices>
-		<bItemNo1>1079</bItemNo1>
-		<bItemNo2>1080</bItemNo2>
-		<bItemNo3>1081</bItemNo3>
-		<bItemNo4>1082</bItemNo4>
-		<bItemNo5>1083</bItemNo5>
-		<bItemNo6>1084</bItemNo6>
-		<bItemNo7>1086</bItemNo7>
-		<bItemNo8>1087</bItemNo8>
-		<bItemNo9>1088</bItemNo9>
-		<bItemNo10>1089</bItemNo10>
-		<bItemNo11>1090</bItemNo11>
-		<bItemNo12>1091</bItemNo12>
-		<bItemNo13>1093</bItemNo13>
-		<bItemNo14>1094</bItemNo14>
-		<bItemNo15>1095</bItemNo15>
-		<bItemNo16>1096</bItemNo16>
-		<bItemNo17>1097</bItemNo17>
-		<bItemNo18>1098</bItemNo18>
-		<bItemNo19>1099</bItemNo19>
-		<bItemNo20>1085</bItemNo20>
-		<bItemNo21>1092</bItemNo21>
-		<bItemNo22>2315</bItemNo22>
-		<bItemNo23>1196</bItemNo23>
-		<bItemNo24>1200</bItemNo24>
-		<bItemNo25>1203</bItemNo25>
-		<bItemNo26>2288</bItemNo26>
-		<bItemNo27>2286</bItemNo27>
-		<bItemNo28>2287</bItemNo28>
-		<bItemNo29>2289</bItemNo29>
-		<bItemNo30>2290</bItemNo30>
-		<bItemNo31>1697</bItemNo31>
-		<bItemNo32>2292</bItemNo32>
-		<bItemNo33>2293</bItemNo33>
-		<bItemNo34>2294</bItemNo34>
-		<bItemNo35>2285</bItemNo35>
-		<bItemNo36>2296</bItemNo36>
-		<bItemNo37>2298</bItemNo37>
-		<bItemNo38>2284</bItemNo38>
-		<bItemNo39>2300</bItemNo39>
-		<bItemNo40>2301</bItemNo40>
-		<bItemNo41>2302</bItemNo41>
-		<bItemNo42>2303</bItemNo42>
-		<bItemNo43>2304</bItemNo43>
-		<bItemNo44>2305</bItemNo44>
-		<bItemNo45>2306</bItemNo45>
-		<bItemNo46>2307</bItemNo46>
-		<bItemNo47>2309</bItemNo47>
-		<bItemNo48>2310</bItemNo48>
-		<bItemNo49>2311</bItemNo49>
-		<bItemNo50>2312</bItemNo50>
+		<ubChoices>40</ubChoices>
+		<bItemNo1>1080</bItemNo1>
+		<bItemNo2>1081</bItemNo2>
+		<bItemNo3>1082</bItemNo3>
+		<bItemNo4>1091</bItemNo4>
+		<bItemNo5>1092</bItemNo5>
+		<bItemNo6>1093</bItemNo6>
+		<bItemNo7>1200</bItemNo7>
+		<bItemNo8>1094</bItemNo8>
+		<bItemNo9>1095</bItemNo9>
+		<bItemNo10>1096</bItemNo10>
+		<bItemNo11>2284</bItemNo11>
+		<bItemNo12>2301</bItemNo12>
+		<bItemNo13>2303</bItemNo13>
+		<bItemNo14>1097</bItemNo14>
+		<bItemNo15>1098</bItemNo15>
+		<bItemNo16>1099</bItemNo16>
+		<bItemNo17>1697</bItemNo17>
+		<bItemNo18>2302</bItemNo18>
+		<bItemNo19>1079</bItemNo19>
+		<bItemNo20>1083</bItemNo20>
+		<bItemNo21>1084</bItemNo21>
+		<bItemNo22>1085</bItemNo22>
+		<bItemNo23>1086</bItemNo23>
+		<bItemNo24>1087</bItemNo24>
+		<bItemNo25>1088</bItemNo25>
+		<bItemNo26>1089</bItemNo26>
+		<bItemNo27>1090</bItemNo27>
+		<bItemNo28>1196</bItemNo28>
+		<bItemNo29>1203</bItemNo29>
+		<bItemNo30>2304</bItemNo30>
+		<bItemNo31>2305</bItemNo31>
+		<bItemNo32>2306</bItemNo32>
+		<bItemNo33>2307</bItemNo33>
+		<bItemNo34>2313</bItemNo34>
+		<bItemNo35>2315</bItemNo35>
+		<bItemNo36>2285</bItemNo36>
+		<bItemNo37>2768</bItemNo37>
+		<bItemNo38>2768</bItemNo38>
+		<bItemNo39>2768</bItemNo39>
+		<bItemNo40>2768</bItemNo40>
+		<bItemNo41>0</bItemNo41>
+		<bItemNo42>0</bItemNo42>
+		<bItemNo43>0</bItemNo43>
+		<bItemNo44>0</bItemNo44>
+		<bItemNo45>0</bItemNo45>
+		<bItemNo46>0</bItemNo46>
+		<bItemNo47>0</bItemNo47>
+		<bItemNo48>0</bItemNo48>
+		<bItemNo49>0</bItemNo49>
+		<bItemNo50>0</bItemNo50>
 	</ENEMYITEMCHOICES>
 </ENEMYITEMCHOICESLIST>
